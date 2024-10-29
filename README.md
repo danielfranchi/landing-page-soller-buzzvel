@@ -20,7 +20,7 @@ A Landing Page Soller Buzzvel é uma página moderna e responsiva, projetada par
 
 ### 🚀 Soller Buzzvel
 
-[![Soller-Buzzvel](https://img.shields.io/badge/Website-Acessar_Jogo-2bce3a?style=for-the-badge&logo=steam)](https://stellular-sprite-cd6b8e.netlify.app/)
+[![Soller-Buzzvel](https://img.shields.io/badge/Website-Soller_Buzzvel-2bce3a?style=for-the-badge&logo=steam)](https://stellular-sprite-cd6b8e.netlify.app/)
 
 ```bash
 # Acesse o site neste link:
